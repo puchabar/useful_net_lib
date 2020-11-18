@@ -3,8 +3,14 @@
 Another library of online resources related to machine learning, programming, computer science etc.
 
 ## Table of Contents
+* [Github like libraries](#github-like-libraries)
 * [Internet courses](#internet-courses)
 * [Online coding examples](#online-coding-examples)
+
+<a name="github-like-libraries"></a>
+## Github like libraries
+* Machine learning
+  * [PyTorch Examples](https://github.com/pytorch/examples)
 
 <a name="internet-courses"></a>
 ## Internet courses
