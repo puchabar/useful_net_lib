@@ -3,6 +3,6 @@
 Another library of online resources related to machine learning, programming, computer science etc.
 
 ## Table of Contents
-* [### Internet courses](Internet courses)
+* [Internet courses](https://github.com/puchabar/useful_net_lib/blob/main/README.md#internet-courses)
 
 ### Internet courses
