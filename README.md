@@ -14,7 +14,6 @@ Another library of online resources related to machine learning, programming, co
 ## Github like repos
 * Machine learning
   * [PyTorch Examples](https://github.com/pytorch/examples)
-  * [Ray provides a simple, universal API for building distributed applications](https://github.com/ray-project/ray)
 
 <a name="internet-courses"></a>
 ## Internet courses
