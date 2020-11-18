@@ -5,7 +5,9 @@ Another library of online resources related to machine learning, programming, co
 ## Table of Contents
 * [Github like libraries](#github-like-libraries)
 * [Internet courses](#internet-courses)
+* [Online articles](#online-articles)
 * [Online coding examples](#online-coding-examples)
+
 
 <a name="github-like-libraries"></a>
 ## Github like libraries
@@ -16,6 +18,11 @@ Another library of online resources related to machine learning, programming, co
 ## Internet courses
 * Machine learning
   * [Google's fast-paced, practical introduction to machine learning](https://developers.google.com/machine-learning/crash-course)
+
+<a name="online-articles"></a>
+## Online articles
+* Recurrent neural networks
+  * [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 <a name="online-coding-examples"></a>
 ## Online coding examples
