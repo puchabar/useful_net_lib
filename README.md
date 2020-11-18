@@ -13,3 +13,5 @@ Another library of online resources related to machine learning, programming, co
 
 <a name="online-coding-examples"></a>
 ## Online coding examples
+* Recurrent neural networks
+  * [Time Series Prediction using LSTM with PyTorch in Python](https://stackabuse.com/time-series-prediction-using-lstm-with-pytorch-in-python/)
