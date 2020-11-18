@@ -3,21 +3,28 @@
 Another library of online resources related to machine learning, programming, computer science etc.
 
 ## Table of Contents
-* [Github like libraries](#github-like-libraries)
+* [Github like repos](#github-like-libraries)
 * [Internet courses](#internet-courses)
+* [Libraries](#libraries)
 * [Online articles](#online-articles)
 * [Online coding examples](#online-coding-examples)
 
 
 <a name="github-like-libraries"></a>
-## Github like libraries
+## Github like repos
 * Machine learning
   * [PyTorch Examples](https://github.com/pytorch/examples)
+  * [Ray provides a simple, universal API for building distributed applications](https://github.com/ray-project/ray)
 
 <a name="internet-courses"></a>
 ## Internet courses
 * Machine learning
   * [Google's fast-paced, practical introduction to machine learning](https://developers.google.com/machine-learning/crash-course)
+
+<a name="libraries"></a>
+## Libraries
+* Python
+  * [Tune: Scalable Hyperparameter Tuning](https://docs.ray.io/en/latest/tune/index.html)
 
 <a name="online-articles"></a>
 ## Online articles
