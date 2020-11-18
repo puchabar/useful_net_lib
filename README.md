@@ -6,4 +6,5 @@ Another library of online resources related to machine learning, programming, co
 * [Internet courses](https://github.com/puchabar/useful_net_lib/blob/main/README.md#internet-courses)
 
 ## Internet courses
-* [Google's fast-paced, practical introduction to machine learning](https://developers.google.com/machine-learning/crash-course)
+* Machine learning
+  * [Google's fast-paced, practical introduction to machine learning](https://developers.google.com/machine-learning/crash-course)
