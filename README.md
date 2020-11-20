@@ -6,6 +6,7 @@ Another library of online resources related to machine learning, programming, co
 * [Github like repos](#github-like-libraries)
 * [Internet courses](#internet-courses)
 * [Libraries](#libraries)
+* [Mathematics](#math)
 * [Notebooks](#notebooks)
 * [Online articles](#online-articles)
 * [Online coding examples](#online-coding-examples)
@@ -27,6 +28,11 @@ Another library of online resources related to machine learning, programming, co
   * [Tune: Scalable Hyperparameter Tuning](https://docs.ray.io/en/latest/tune/index.html)
   * [Plotly](https://plotly.com/)
   * [seaborn: statistical data visualization](https://seaborn.pydata.org/index.html)
+  
+<a name="math"></a>
+## Mathematics
+* Math Vault
+  * [Mathematical Symbols](https://mathvault.ca/hub/higher-math/math-symbols/)
 
 <a name="notebooks"></a>
 ## Notebooks
