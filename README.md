@@ -25,6 +25,8 @@ Another library of online resources related to machine learning, programming, co
 ## Libraries
 * Python
   * [Tune: Scalable Hyperparameter Tuning](https://docs.ray.io/en/latest/tune/index.html)
+  * [Plotly](https://plotly.com/)
+  * [seaborn: statistical data visualization](https://seaborn.pydata.org/index.html)
 
 <a name="notebooks"></a>
 ## Notebooks
