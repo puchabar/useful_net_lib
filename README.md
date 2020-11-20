@@ -6,6 +6,7 @@ Another library of online resources related to machine learning, programming, co
 * [Github like repos](#github-like-libraries)
 * [Internet courses](#internet-courses)
 * [Libraries](#libraries)
+* [Notebooks](#notebooks)
 * [Online articles](#online-articles)
 * [Online coding examples](#online-coding-examples)
 
@@ -24,6 +25,13 @@ Another library of online resources related to machine learning, programming, co
 ## Libraries
 * Python
   * [Tune: Scalable Hyperparameter Tuning](https://docs.ray.io/en/latest/tune/index.html)
+
+<a name="notebooks"></a>
+## Notebooks
+* Kaggle
+  * [Explore and run data science and machine learning notebooks](https://www.kaggle.com/notebooks)
+* Jetbrains Datalore
+  * [Advanced visualization tutorial with Seaborn](https://view.datalore.jetbrains.com/notebook/v8mLoENq8XTfmStTCLNMV6)
 
 <a name="online-articles"></a>
 ## Online articles
