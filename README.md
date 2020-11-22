@@ -48,5 +48,8 @@ Another library of online resources related to machine learning, programming, co
 
 <a name="online-coding-examples"></a>
 ## Online coding examples
+* Pandas
+  * [A Complete Guide to Time Series Data Visualization in Python](https://towardsdatascience.com/a-complete-guide-to-time-series-data-visualization-in-python-da0ddd2cfb01)
+  * [The 6 Top Pandas Mistakes for Python Data Scientists](https://towardsdatascience.com/the-6-top-pandas-mistakes-for-python-data-scientists-f551156c5c93)
 * Recurrent neural networks
   * [Time Series Prediction using LSTM with PyTorch in Python](https://stackabuse.com/time-series-prediction-using-lstm-with-pytorch-in-python/)
