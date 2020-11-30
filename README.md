@@ -16,6 +16,7 @@ Another library of online resources related to machine learning, programming, co
 <a name="github-like-libraries"></a>
 ## Github like repos
 * Control systems
+  * [Convex optimization, for everyone.](https://www.cvxpy.org/index.html#)
   * [Harold is an open-source control systems library for Python 3.6 and greater](https://harold.readthedocs.io/en/latest/)
   * [Python code for Multivariable Feedback Control](https://github.com/alchemyst/Skogestad-Python)
   * [Python Control Systems Library](https://github.com/python-control/python-control)
