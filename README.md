@@ -10,7 +10,7 @@ Another library of online resources related to machine learning, programming, co
 * [Notebooks](#notebooks)
 * [Online articles](#online-articles)
 * [Online coding examples](#online-coding-examples)
-* [Youtube][#youtube]
+* [Youtube](#youtube)
 
 
 <a name="github-like-libraries"></a>
