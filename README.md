@@ -10,6 +10,7 @@ Another library of online resources related to machine learning, programming, co
 * [Notebooks](#notebooks)
 * [Online articles](#online-articles)
 * [Online coding examples](#online-coding-examples)
+* [Youtube][#youtube]
 
 
 <a name="github-like-libraries"></a>
@@ -20,6 +21,7 @@ Another library of online resources related to machine learning, programming, co
 <a name="internet-courses"></a>
 ## Internet courses
 * Machine learning
+  * [DEEP LEARNING - NYU CENTER FOR DATA SCIENCE](https://atcold.github.io/pytorch-Deep-Learning/)
   * [Google's fast-paced, practical introduction to machine learning](https://developers.google.com/machine-learning/crash-course)
 
 <a name="libraries"></a>
@@ -53,3 +55,6 @@ Another library of online resources related to machine learning, programming, co
   * [The 6 Top Pandas Mistakes for Python Data Scientists](https://towardsdatascience.com/the-6-top-pandas-mistakes-for-python-data-scientists-f551156c5c93)
 * Recurrent neural networks
   * [Time Series Prediction using LSTM with PyTorch in Python](https://stackabuse.com/time-series-prediction-using-lstm-with-pytorch-in-python/)
+  
+<a name="youtube"></a>
+* [Deep Learning (with PyTorch)](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
