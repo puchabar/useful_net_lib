@@ -57,4 +57,5 @@ Another library of online resources related to machine learning, programming, co
   * [Time Series Prediction using LSTM with PyTorch in Python](https://stackabuse.com/time-series-prediction-using-lstm-with-pytorch-in-python/)
   
 <a name="youtube"></a>
+## Youtube
 * [Deep Learning (with PyTorch)](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
