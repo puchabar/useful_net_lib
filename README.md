@@ -3,6 +3,7 @@
 Another library of online resources related to machine learning, programming, computer science etc.
 
 ## Table of Contents
+* [Blogs](#blogs)
 * [Github like repos](#github-like-libraries)
 * [Internet courses](#internet-courses)
 * [Libraries](#libraries)
@@ -12,12 +13,23 @@ Another library of online resources related to machine learning, programming, co
 * [Online coding examples](#online-coding-examples)
 * [Youtube](#youtube)
 
+<a name="blogs"></a>
+## Blogs
+* Machine learning
+  * [colah's blog](http://colah.github.io/)
+  * [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/)
+  * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+  * [WildML](http://www.wildml.com/)
+  * [Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+  * [Recurrent Neural Networks Tutorial, Part 2 – Implementing a RNN with Python, Numpy and Theano](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/)
+  * [Recurrent Neural Networks Tutorial, Part 3 – Backpropagation Through Time and Vanishing Gradients](http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/)
 
 <a name="github-like-libraries"></a>
 ## Github like repos
 * Control systems
   * [Convex optimization, for everyone.](https://www.cvxpy.org/index.html#)
   * [Harold is an open-source control systems library for Python 3.6 and greater](https://harold.readthedocs.io/en/latest/)
+  * [Notes and assignments for Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition](https://github.com/cs231n/cs231n.github.io)
   * [Python code for Multivariable Feedback Control](https://github.com/alchemyst/Skogestad-Python)
   * [Python Control Systems Library](https://github.com/python-control/python-control)
 
@@ -29,6 +41,8 @@ Another library of online resources related to machine learning, programming, co
 * Machine learning
   * [DEEP LEARNING - NYU CENTER FOR DATA SCIENCE](https://atcold.github.io/pytorch-Deep-Learning/)
   * [Google's fast-paced, practical introduction to machine learning](https://developers.google.com/machine-learning/crash-course)
+  * [Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
+  * [CS69000-DPL - (Graduate) Deep Learning](https://www.cs.purdue.edu/homes/ribeirob/courses/Spring2020/)
 
 <a name="libraries"></a>
 ## Libraries
