@@ -43,6 +43,8 @@ Another library of online resources related to machine learning, programming, co
   * [Google's fast-paced, practical introduction to machine learning](https://developers.google.com/machine-learning/crash-course)
   * [Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
   * [CS69000-DPL - (Graduate) Deep Learning](https://www.cs.purdue.edu/homes/ribeirob/courses/Spring2020/)
+ * Python
+  * [Educative.io](https://www.educative.io/)
 
 <a name="libraries"></a>
 ## Libraries
@@ -50,6 +52,9 @@ Another library of online resources related to machine learning, programming, co
   * [Tune: Scalable Hyperparameter Tuning](https://docs.ray.io/en/latest/tune/index.html)
   * [Plotly](https://plotly.com/)
   * [seaborn: statistical data visualization](https://seaborn.pydata.org/index.html)
+  * [Python control](https://python-control.readthedocs.io/en/0.8.4/)
+  * [Rich is a Python library for rich text and beautiful formatting in the terminal](https://rich.readthedocs.io/en/latest/)
+  * [statistical models, hypothesis tests, and data exploration](https://www.statsmodels.org/stable/index.html)
   
 <a name="math"></a>
 ## Mathematics
