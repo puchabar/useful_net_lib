@@ -16,13 +16,16 @@ Another library of online resources related to machine learning, programming, co
 <a name="blogs"></a>
 ## Blogs
 * Machine learning
+  * [Blog o data science, sztucznej inteligencji, uczeniu maszynowym i wizualizacji danych](https://miroslawmamczur.pl/)
   * [colah's blog](http://colah.github.io/)
   * [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/)
-  * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-  * [WildML](http://www.wildml.com/)
+  * [Lilian document my learning notes.](https://lilianweng.github.io/lil-log/)
   * [Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
   * [Recurrent Neural Networks Tutorial, Part 2 – Implementing a RNN with Python, Numpy and Theano](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/)
   * [Recurrent Neural Networks Tutorial, Part 3 – Backpropagation Through Time and Vanishing Gradients](http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/)
+  * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+  * [WildML](http://www.wildml.com/)
+
 
 <a name="github-like-libraries"></a>
 ## Github like repos
