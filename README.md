@@ -46,7 +46,7 @@ Another library of online resources related to machine learning, programming, co
   * [Google's fast-paced, practical introduction to machine learning](https://developers.google.com/machine-learning/crash-course)
   * [Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
   * [CS69000-DPL - (Graduate) Deep Learning](https://www.cs.purdue.edu/homes/ribeirob/courses/Spring2020/)
- * Python
+* Python
   * [Educative.io](https://www.educative.io/)
 
 <a name="libraries"></a>
