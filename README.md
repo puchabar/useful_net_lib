@@ -58,7 +58,7 @@ Another library of online resources related to machine learning, programming, co
   * [Python control](https://python-control.readthedocs.io/en/0.8.4/)
   * [Rich is a Python library for rich text and beautiful formatting in the terminal](https://rich.readthedocs.io/en/latest/)
   * [statistical models, hypothesis tests, and data exploration](https://www.statsmodels.org/stable/index.html)
-  * [A Python package for online/streaming machine learning.](https://riverml.xyz/latest/)
+  * [River: A Python package for online/streaming machine learning.](https://riverml.xyz/latest/)
   
 <a name="math"></a>
 ## Mathematics
