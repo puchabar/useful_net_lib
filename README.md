@@ -59,6 +59,7 @@ Another library of online resources related to machine learning, programming, co
   * [Rich is a Python library for rich text and beautiful formatting in the terminal](https://rich.readthedocs.io/en/latest/)
   * [statistical models, hypothesis tests, and data exploration](https://www.statsmodels.org/stable/index.html)
   * [River: A Python package for online/streaming machine learning.](https://riverml.xyz/latest/)
+  * [PyMC3: Probabilistic Programming in Python](https://docs.pymc.io/)
   
 <a name="math"></a>
 ## Mathematics
