@@ -5,6 +5,7 @@ Another library of online resources related to machine learning, programming, co
 ## Table of Contents
 * [Blogs](#blogs)
 * [Github like repos](#github-like-libraries)
+* [dimension reduction algorithms](#dimension reduction algorithms)
 * [Internet courses](#internet-courses)
 * [Libraries](#libraries)
 * [Mathematics](#math)
@@ -26,7 +27,7 @@ Another library of online resources related to machine learning, programming, co
   * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   * [WildML](http://www.wildml.com/)
 
-<a name="Dimension reduction algorithms"></a>
+<a name="dimension-reduction-algorithms"></a>
 ## Dimension reduction algorithms
   * [Uniform Manifold Approximation and Projection (UMAP)](https://github.com/lmcinnes/umap)
   * [t-Distributed Stochastic Neighbor Embedding (t-SNE)](https://lvdmaaten.github.io/tsne/)
