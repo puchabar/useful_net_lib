@@ -7,6 +7,7 @@ Another library of online resources related to machine learning, programming, co
 * [Github like repos](#github-like-libraries)
 * [Dimension reduction algorithms](#dimension-reduction-algorithms)
 * [Internet courses](#internet-courses)
+* [Jupyter useful addons](#jupyter-addons)
 * [Libraries](#libraries)
 * [Mathematics](#math)
 * [Notebooks](#notebooks)
@@ -54,6 +55,12 @@ Another library of online resources related to machine learning, programming, co
   * [CS69000-DPL - (Graduate) Deep Learning](https://www.cs.purdue.edu/homes/ribeirob/courses/Spring2020/)
 * Python
   * [Educative.io](https://www.educative.io/)
+
+<a name="jupyter-addons"></a>
+## Jupyter useful addons
+  * [Jupyterlab Code Formatter](https://jupyterlab-code-formatter.readthedocs.io/en/latest/index.html#)
+  * [Jupyterlab pellchecker](https://github.com/jupyterlab-contrib/spellchecker)
+  * [Polish spellcheck dictionary](https://sjp.pl/slownik/ort/)
 
 <a name="libraries"></a>
 ## Libraries
