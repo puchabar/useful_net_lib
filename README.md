@@ -30,10 +30,10 @@ Another library of online resources related to machine learning, programming, co
 
 <a name="dimension-reduction-algorithms"></a>
 ## Dimension reduction algorithms
-  * [Uniform Manifold Approximation and Projection (UMAP)](https://github.com/lmcinnes/umap)
+  * [LargeVis](https://github.com/lferry007/LargeVis)
   * [t-Distributed Stochastic Neighbor Embedding (t-SNE)](https://lvdmaaten.github.io/tsne/)
-
-
+  * [Uniform Manifold Approximation and Projection (UMAP)](https://github.com/lmcinnes/umap)
+  
 <a name="github-like-libraries"></a>
 ## Github like repos
 * Control systems
