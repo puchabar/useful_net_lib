@@ -13,6 +13,7 @@ Another library of online resources related to machine learning, programming, co
 * [Notebooks](#notebooks)
 * [Online articles](#online-articles)
 * [Online coding examples](#online-coding-examples)
+* [Optimization](#optimization)
 * [Youtube](#youtube)
 
 <a name="blogs"></a>
@@ -98,6 +99,10 @@ Another library of online resources related to machine learning, programming, co
   * [The 6 Top Pandas Mistakes for Python Data Scientists](https://towardsdatascience.com/the-6-top-pandas-mistakes-for-python-data-scientists-f551156c5c93)
 * Recurrent neural networks
   * [Time Series Prediction using LSTM with PyTorch in Python](https://stackabuse.com/time-series-prediction-using-lstm-with-pytorch-in-python/)
+
+<a name="optimization"></a>
+## Optimization
+* [CasADi](https://github.com/casadi/casadi)
   
 <a name="youtube"></a>
 ## Youtube
